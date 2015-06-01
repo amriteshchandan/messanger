@@ -15,7 +15,7 @@
 //= require chosen-jquery
 //= require turbolinks
 //= require_tree .
-
+/*
 $(document).ready(function(){
 	$(document).on( "click",".send_message", function(e){
      e.preventDefault();
@@ -40,3 +40,4 @@ $(document).ready(function(){
    
 	});
 });
+*/
